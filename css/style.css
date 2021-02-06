@@ -389,7 +389,38 @@ h4 {
 	margin-left: 50px;
 	max-width: 400px;
 	margin-top: 50px;
-	outline: dashed yellowgreen;
+}
+
+.p1 {
+	outline: 5px solid yellowgreen;
+}
+.p2 {
+	outline: 10px dashed rgb(67, 185, 126);
+}
+.p3 {
+	outline: 5px double rgb(27, 172, 140);
+}
+
+.p4 {
+	outline: 10px dotted rgb(201, 243, 117);
+}
+
+.p5 {
+	outline: 10px inset rgb(29, 223, 29);
+}
+
+.p6 {
+	outline: 5px outset rgb(177, 205, 50);
+}
+
+.p7 {
+	outline: 5px ridge rgb(170, 218, 75);
+}
+.p8 {
+	outline: 5px groove rgb(55, 180, 16);
+}
+
+
 }
 .box7 {
 	border-radius: 50%;
