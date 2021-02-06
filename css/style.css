@@ -441,4 +441,25 @@ img.pic {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
 }
+.pic8 {
+	margin-top: -360px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	visibility: hidden;
+}
+.pic8:hover {
+}
+.box8:hover .pic8 {
+	visibility: visible;
+}
+.box8 {
+	display: block;
+	margin: 0 auto;
+	max-width: 500px;
+	margin-bottom: 50px;
+}
+.box8 hover;
