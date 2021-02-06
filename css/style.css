@@ -420,8 +420,6 @@ h4 {
 	outline: 5px groove rgb(55, 180, 16);
 }
 
-
-}
 .box7 {
 	border-radius: 50%;
 	background-color: rgb(46, 216, 131);
@@ -437,6 +435,7 @@ h4 {
 	margin-right: auto;
 	box-shadow: 3px 5px 30px fuchsia;
 	margin-bottom: 50px;
+	margin-top: 50px;
 }
 img.pic {
 	display: block;
